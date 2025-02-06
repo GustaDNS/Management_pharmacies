@@ -1,0 +1,716 @@
+[
+    {
+        "codigo": "100",
+        "nome": "\u00c1cido clavul\u00e2nico",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "25/10/2028"
+    },
+    {
+        "codigo": "101",
+        "nome": "\u00c1cido fus\u00eddico",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "25/12/2028"
+    },
+    {
+        "codigo": "102",
+        "nome": "\u00c1cido nalid\u00edxico",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "27/10/2028"
+    },
+    {
+        "codigo": "103",
+        "nome": "\u00c1cido oxol\u00ednico",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "11/11/2028"
+    },
+    {
+        "codigo": "104",
+        "nome": "\u00c1cido pipem\u00eddico",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "15/10/2028"
+    },
+    {
+        "codigo": "105",
+        "nome": "Amicacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 10,
+        "validade": "30/10/2028"
+    },
+    {
+        "codigo": "106",
+        "nome": "Amoxicilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 100,
+        "validade": "28/10/2029"
+    },
+    {
+        "codigo": "107",
+        "nome": "Ampicilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 100,
+        "validade": "28/12/2029"
+    },
+    {
+        "codigo": "108",
+        "nome": "Axetilcefuroxima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 100,
+        "validade": "15/11/2028"
+    },
+    {
+        "codigo": "109",
+        "nome": "Azitromicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 60,
+        "validade": "15/11/2028"
+    },
+    {
+        "codigo": "110",
+        "nome": "Aztreonam",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "111",
+        "nome": "Bacitracina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 20,
+        "validade": "11/10/2030"
+    },
+    {
+        "codigo": "112",
+        "nome": "Besifloxacino",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 40,
+        "validade": "27/09/2029"
+    },
+    {
+        "codigo": "113",
+        "nome": "Brodimoprima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 70,
+        "validade": "13/02/2026"
+    },
+    {
+        "codigo": "114",
+        "nome": "Capreomicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 60,
+        "validade": "02/10/2028"
+    },
+    {
+        "codigo": "115",
+        "nome": "Carbenicilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 90,
+        "validade": "23/05/2029"
+    },
+    {
+        "codigo": "116",
+        "nome": "Cefaclor",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 20,
+        "validade": "16/11/2030"
+    },
+    {
+        "codigo": "117",
+        "nome": "Cefadroxil",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 40,
+        "validade": "29/07/2027"
+    },
+    {
+        "codigo": "118",
+        "nome": "Cefalexina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 120,
+        "validade": "03/04/2029"
+    },
+    {
+        "codigo": "119",
+        "nome": "Cefalotina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 10,
+        "validade": "21/06/2026"
+    },
+    {
+        "codigo": "120",
+        "nome": "Cefazolina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 5,
+        "validade": "07/12/2025"
+    },
+    {
+        "codigo": "121",
+        "nome": "Cefepima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 40,
+        "validade": "27/09/2029"
+    },
+    {
+        "codigo": "122",
+        "nome": "Cefodizima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "25/03/2031"
+    },
+    {
+        "codigo": "123",
+        "nome": "Cefoperazona",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 80,
+        "validade": "11/01/2028"
+    },
+    {
+        "codigo": "124",
+        "nome": "Cefotaxima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 20,
+        "validade": "27/05/2026"
+    },
+    {
+        "codigo": "125",
+        "nome": "Cefoxitina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 70,
+        "validade": "23/09/2030"
+    },
+    {
+        "codigo": "126",
+        "nome": "Cefpodoxima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 90,
+        "validade": "06/08/2029"
+    },
+    {
+        "codigo": "127",
+        "nome": "Cefpiroma",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 40,
+        "validade": "27/09/2029"
+    },
+    {
+        "codigo": "128",
+        "nome": "Cefprozil",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "12/10/2028"
+    },
+    {
+        "codigo": "129",
+        "nome": "Ceftadizima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 50,
+        "validade": "25/12/2028"
+    },
+    {
+        "codigo": "130",
+        "nome": "Ceftarolina fosamila",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 25,
+        "validade": "07/03/2029"
+    },
+    {
+        "codigo": "131",
+        "nome": "Ceftriaxona",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 6,
+        "validade": "30/04/2025"
+    },
+    {
+        "codigo": "132",
+        "nome": "Cefuroxima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 80,
+        "validade": "18/11/2028"
+    },
+    {
+        "codigo": "133",
+        "nome": "Ciprofloxacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 4,
+        "validade": "23/02/2025"
+    },
+    {
+        "codigo": "134",
+        "nome": "Claritromicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 52,
+        "validade": "25/11/2029"
+    },
+    {
+        "codigo": "135",
+        "nome": "Clindamicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 30,
+        "validade": "25/10/2028"
+    },
+    {
+        "codigo": "136",
+        "nome": "Clofazimina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 48,
+        "validade": "13/02/2030"
+    },
+    {
+        "codigo": "137",
+        "nome": "Clorfenesina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 70,
+        "validade": "29/07/2031"
+    },
+    {
+        "codigo": "138",
+        "nome": "Cloranfenicol",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 39,
+        "validade": "14/02/2026"
+    },
+    {
+        "codigo": "139",
+        "nome": "Cloxacilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 62,
+        "validade": "02/03/2027"
+    },
+    {
+        "codigo": "140",
+        "nome": "Dactinomicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 39,
+        "validade": "25/07/2029"
+    },
+    {
+        "codigo": "178",
+        "nome": "Mupirocina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 61,
+        "validade": "18/02/2026"
+    },
+    {
+        "codigo": "179",
+        "nome": "Neomicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 86,
+        "validade": "12/07/2031"
+    },
+    {
+        "codigo": "180",
+        "nome": "Netilmicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 1,
+        "validade": "06/11/2028"
+    },
+    {
+        "codigo": "181",
+        "nome": "Nitrofural",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 20,
+        "validade": "09/03/2029"
+    },
+    {
+        "codigo": "182",
+        "nome": "Nitrofuranto\u00edna",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 80,
+        "validade": "17/05/2033"
+    },
+    {
+        "codigo": "183",
+        "nome": "Nitroxolina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 40,
+        "validade": "10/08/2026"
+    },
+    {
+        "codigo": "184",
+        "nome": "Norfloxacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 59,
+        "validade": "20/01/2028"
+    },
+    {
+        "codigo": "185",
+        "nome": "Ofloxacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 5,
+        "validade": "29/09/2027"
+    },
+    {
+        "codigo": "186",
+        "nome": "Oxacilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 70,
+        "validade": "11/12/2025"
+    },
+    {
+        "codigo": "187",
+        "nome": "Oxitetraciclina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 43,
+        "validade": "02/05/2029"
+    },
+    {
+        "codigo": "188",
+        "nome": "Pefloxacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 28,
+        "validade": "26/07/2032"
+    },
+    {
+        "codigo": "189",
+        "nome": "Penicilina G",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 72,
+        "validade": "19/04/2026"
+    },
+    {
+        "codigo": "190",
+        "nome": "Penicilina V",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 73,
+        "validade": "05/02/2027"
+    },
+    {
+        "codigo": "191",
+        "nome": "Piperacilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 10,
+        "validade": "28/09/2031"
+    },
+    {
+        "codigo": "192",
+        "nome": "Pirazinamida",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 47,
+        "validade": "13/11/2028"
+    },
+    {
+        "codigo": "193",
+        "nome": "Polimixina B",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 75,
+        "validade": "15/08/2030"
+    },
+    {
+        "codigo": "194",
+        "nome": "Pristinamicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 58,
+        "validade": "07/06/2029"
+    },
+    {
+        "codigo": "195",
+        "nome": "Protionamida",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 38,
+        "validade": "10/10/2026"
+    },
+    {
+        "codigo": "196",
+        "nome": "Retapamulina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 74,
+        "validade": "19/01/2031"
+    },
+    {
+        "codigo": "197",
+        "nome": "Rifabutina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 29,
+        "validade": "04/08/2027"
+    },
+    {
+        "codigo": "198",
+        "nome": "Rifamicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 7,
+        "validade": "26/12/2029"
+    },
+    {
+        "codigo": "199",
+        "nome": "Rifampicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 63,
+        "validade": "12/04/2030"
+    },
+    {
+        "codigo": "200",
+        "nome": "Rifapentina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 24,
+        "validade": "18/02/2028"
+    },
+    {
+        "codigo": "201",
+        "nome": "Rosoxacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 42,
+        "validade": "03/07/2033"
+    },
+    {
+        "codigo": "202",
+        "nome": "Roxitromicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 4,
+        "validade": "01/03/2025"
+    },
+    {
+        "codigo": "203",
+        "nome": "Sulbactam",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 23,
+        "validade": "14/11/2026"
+    },
+    {
+        "codigo": "204",
+        "nome": "Sulfacetamida",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 17,
+        "validade": "25/09/2032"
+    },
+    {
+        "codigo": "205",
+        "nome": "Sulfadiazina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 18,
+        "validade": "09/06/2027"
+    },
+    {
+        "codigo": "206",
+        "nome": "Sulfadoxina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 65,
+        "validade": "20/02/2029"
+    },
+    {
+        "codigo": "207",
+        "nome": "Sulfaguanidina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 44,
+        "validade": "07/05/2031"
+    },
+    {
+        "codigo": "208",
+        "nome": "Sulfamerazina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 31,
+        "validade": "22/07/2028"
+    },
+    {
+        "codigo": "209",
+        "nome": "Sulfanilamida",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 34,
+        "validade": "28/04/2030"
+    },
+    {
+        "codigo": "210",
+        "nome": "Sulfametizol",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 82,
+        "validade": "01/12/2025"
+    },
+    {
+        "codigo": "211",
+        "nome": "Sulfametoxazol",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 13,
+        "validade": "17/03/2026"
+    },
+    {
+        "codigo": "212",
+        "nome": "Sulfametoxipiridazina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 57,
+        "validade": "09/02/2031"
+    },
+    {
+        "codigo": "213",
+        "nome": "Sulfametoxipirimidina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 51,
+        "validade": "30/06/2027"
+    },
+    {
+        "codigo": "214",
+        "nome": "Sulfatiazol",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 16,
+        "validade": "04/03/2033"
+    },
+    {
+        "codigo": "215",
+        "nome": "Sultamicilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 77,
+        "validade": "08/12/2029"
+    },
+    {
+        "codigo": "216",
+        "nome": "Tazobactam",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 69,
+        "validade": "23/08/2030"
+    },
+    {
+        "codigo": "217",
+        "nome": "Tedizolida",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 83,
+        "validade": "16/09/2025"
+    },
+    {
+        "codigo": "218",
+        "nome": "Teicoplanina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 93,
+        "validade": "14/01/2027"
+    },
+    {
+        "codigo": "219",
+        "nome": "Telitromicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 26,
+        "validade": "12/04/2032"
+    },
+    {
+        "codigo": "220",
+        "nome": "Tetraciclina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 2,
+        "validade": "17/08/2029"
+    },
+    {
+        "codigo": "221",
+        "nome": "Tianfenicol",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 84,
+        "validade": "25/02/2026"
+    },
+    {
+        "codigo": "222",
+        "nome": "Ticarcilina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 46,
+        "validade": "11/09/2027"
+    },
+    {
+        "codigo": "223",
+        "nome": "Tigeciclina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 65,
+        "validade": "09/01/2030"
+    },
+    {
+        "codigo": "224",
+        "nome": "Tirotricina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 15,
+        "validade": "04/06/2032"
+    },
+    {
+        "codigo": "225",
+        "nome": "Tobramicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 18,
+        "validade": "16/10/2029"
+    },
+    {
+        "codigo": "226",
+        "nome": "Trimetoprima",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 52,
+        "validade": "23/11/2025"
+    },
+    {
+        "codigo": "227",
+        "nome": "Trovafloxacina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 23,
+        "validade": "01/05/2031"
+    },
+    {
+        "codigo": "228",
+        "nome": "Vancomicina",
+        "categoria": "antibi\u00f3tico",
+        "quantidade": 72,
+        "validade": "15/03/2028"
+    },
+    {
+        "codigo": "500",
+        "nome": "\u00c1cido acetilsalic\u00edlico",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "501",
+        "nome": "\u00c1cido mefen\u00e2mico",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "502",
+        "nome": "Celecoxibe",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "503",
+        "nome": "Cetoprofeno",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "504",
+        "nome": "Cetorolaco",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "505",
+        "nome": "Diclofenaco",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "506",
+        "nome": "Etodolaco",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "507",
+        "nome": "Fenilbutazona",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "508",
+        "nome": "Naproxeno",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    },
+    {
+        "codigo": "509",
+        "nome": "Paracetamol",
+        "categoria": "analg\u00e9sico",
+        "quantidade": 20,
+        "validade": "11/10/2028"
+    }
+]

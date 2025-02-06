@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "1414",
+        "nome": "Oxicodona",
+        "categoria": "Opiode",
+        "quantidade": 4,
+        "validade": "25/07/2030"
+    },
+    {
+        "codigo": "1313",
+        "nome": "Dipirona",
+        "categoria": "analgesico",
+        "quantidade": 3,
+        "validade": "13/09/207"
+    },
+    {
+        "codigo": "1212",
+        "nome": "Paracetamol",
+        "categoria": "analgesico",
+        "quantidade": 13,
+        "validade": "13/09/2025"
+    },
+    {
+        "codigo": "123",
+        "nome": "Paracetamol",
+        "categoria": "Antinflamtorio",
+        "quantidade": 12,
+        "validade": "31/01/2030"
+    }
+]
